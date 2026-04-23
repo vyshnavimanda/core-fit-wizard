@@ -130,4 +130,4 @@ wega-fit-wizard/
 
 ---
 
-*Vyshnavi Manda · Junior FDE Pre-screening Assignment · Wipro · April 2026*
+*Vyshnavi Manda*
