@@ -5,10 +5,10 @@
 Built for the Wipro Junior Forward Deployed Engineer assignment. Addresses a real gap in the WEGA deployment workflow: automated client environment assessment before an FDE engagement begins.
 
 **Live demo:** https://wega-fit-wizard-frontend.onrender.com
-
-**API endpoint:** [https://wega-fit-wizard.onrender.com](https://wega-fit-wizard.onrender.com/health)
-
+**API endpoint:** https://wega-fit-wizard.onrender.com/health
 **GitHub:** https://github.com/vyshnavimanda/wega-fit-wizard
+
+---
 
 ## What it does
 
@@ -57,7 +57,7 @@ Each agent has a strict system prompt confining it to one role. No agent can exc
 | RAG Knowledge Base | 41 WEGA docs (integrations, agents, compliance, constraints) |
 | Streaming | Server-Sent Events (live agent trace) |
 | Frontend | React 18 + TypeScript |
-| Deployment | AWS Elastic Beanstalk (backend) + AWS Amplify (frontend) |
+| Deployment | Render (backend + frontend) |
 
 ---
 
@@ -131,4 +131,4 @@ wega-fit-wizard/
 
 ---
 
-*Vyshnavi Manda*
+*Vyshnavi Manda · Junior FDE Pre-screening Assignment · Wipro · April 2026*
