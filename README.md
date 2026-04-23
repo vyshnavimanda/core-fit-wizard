@@ -5,7 +5,9 @@
 Built for the Wipro Junior Forward Deployed Engineer assignment. Addresses a real gap in the WEGA deployment workflow: automated client environment assessment before an FDE engagement begins.
 
 **Live demo:** https://wega-fit-wizard-frontend.onrender.com
-**API endpoint:** https://wega-fit-wizard.onrender.com
+
+**API endpoint:** [https://wega-fit-wizard.onrender.com](https://wega-fit-wizard.onrender.com/health)
+
 **GitHub:** https://github.com/vyshnavimanda/wega-fit-wizard
 
 ## What it does
