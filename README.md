@@ -7,6 +7,7 @@ Built for the Wipro Junior Forward Deployed Engineer assignment. Addresses a rea
 **Live demo:** https://wega-fit-wizard-frontend.onrender.com
 **API endpoint:** https://wega-fit-wizard.onrender.com/health
 **GitHub:** https://github.com/vyshnavimanda/wega-fit-wizard
+**WEGA-Fit-Wizard-Demo:** https://drive.google.com/drive/folders/19fwRakwgQaM8yRW3nxgVAEo8ExT9Tx1O?usp=sharing
 
 ---
 
