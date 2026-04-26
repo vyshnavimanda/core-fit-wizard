@@ -7,7 +7,6 @@ Built for the Wipro Junior Forward Deployed Engineer assignment. Addresses a rea
 **Live demo:** https://core-fit-wizard-frontend.onrender.com
 **API endpoint:** https://core-fit-wizard.onrender.com/health
 **GitHub:** https://github.com/vyshnavimanda/core-fit-wizard
-**CORE-Fit-Wizard-Demo:** https://drive.google.com/drive/folders/19fwRakwgQaM8yRW3nxgVAEo8ExT9Tx1O?usp=sharing
 
 ---
 
